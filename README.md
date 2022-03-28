@@ -1,7 +1,7 @@
-<b>Simplilearn Assignment Java Course</b>
+<b><h1>Simplilearn Assignment Java Course</h1></b>
 
-Project Name: LockedMe File Management Prototype
-Project Description: File Management system that allows user to add, delete, search, sort and list files in a pre-defined directory
+<b>Project Name:</b> LockedMe File Management Prototype<br/>
+<b>Project Description:</b> File Management system that allows user to add, delete, search, sort and list files in a pre-defined directory
 
 Instructions to run the project:
 
